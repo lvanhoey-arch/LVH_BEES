@@ -1,4 +1,3 @@
-JSON
 {
   "short_name": "LVH Bees",
   "name": "LVH Bees Imker App",
@@ -7,16 +6,29 @@ JSON
       "src": "bij.png",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "bij.png",
       "type": "image/png",
       "sizes": "512x512",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "bij.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "bij.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
     }
   ],
-  "start_url": ".",
+  "start_url": "/LVH_BEES/index.html",
+  "id": "/LVH_BEES/",
   "background_color": "#0E0A02",
   "theme_color": "#0E0A02",
   "display": "standalone",
