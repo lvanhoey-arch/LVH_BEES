@@ -1,21 +1,24 @@
+JSON
 {
   "short_name": "LVH Bees",
   "name": "LVH Bees Imker App",
   "icons": [
     {
-      "src": "https://placehold.co/192x192/0E0A02/ffffff?text=🐝",
+      "src": "bij.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
-      "src": "https://placehold.co/512x512/0E0A02/ffffff?text=🐝",
+      "src": "bij.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
   "start_url": ".",
   "background_color": "#0E0A02",
-  "theme-color": "#0E0A02",
+  "theme_color": "#0E0A02",
   "display": "standalone",
   "orientation": "portrait"
 }
